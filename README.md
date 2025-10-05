@@ -1,2 +1,2 @@
 # study_support
-Study support apps
+Study support apps using LLM
